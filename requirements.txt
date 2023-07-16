@@ -1,0 +1,4 @@
+pyyaml==6.0
+SQLAlchemy==2.0.18
+beautifulsoup4==4.12.2
+aiohttp==3.8.3
